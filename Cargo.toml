@@ -1,0 +1,9 @@
+[package]
+name = "fps-engine"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+macroquad = "0.4.14"
+nalgebra = "0.34.1"
+parry3d = "0.25.3"
